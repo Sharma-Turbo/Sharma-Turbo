@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to My GitHub!  
  
-### I'm Vishal Singh  
+### I'm Arvind Sharma  
 
 🚀 Data Engineer | Python Developer | Agentic AI Enthusiast  
  
@@ -57,56 +57,14 @@ Passionate about building **secure, scalable, and intelligent systems**, I have 
 - Implemented using **Google Vertex AI (Gemini)** and **AWS Bedrock** with **LangChain**.  
 
 - **Tech:** Python, LangChain, Vertex AI, Bedrock, CouchDB, FastAPI, HTML/CSS/JS  
- 
----
- 
-### 💬 [AI Chatbots](#)  
 
-- **Knowledge-based Chatbot**: Powered by **AWS Bedrock + LangChain + RAG**, answering banking FAQs.  
-
-- **Voice Chatbot**: Conversational AI with **speech-to-text** and **text-to-speech** for natural interactions.  
-
-- **Tech:** Python, FastAPI, AWS Bedrock, LangChain, Speech APIs  
- 
----
- 
-### ⚡ [Data Integration & Analytics Pipeline – Tata Power](#)  
-
-- Automated **ETL workflows** with AWS Glue, Lambda, and PySpark.  
-
-- Built **data lake pipelines** and interactive **Power BI dashboards**.  
-
-- **Tech:** Python, PySpark, AWS Glue, Fargate, RDS, Power BI  
- 
----
- 
-### 🔗 [API Modernization – Auxilo Pvt Ltd.](#)  
-
-- Modernized APIs with **AWS API Gateway, Lambda, FastAPI, Cognito**.  
-
-- Added **real-time notifications** for API failures (SNS) and **traffic splitting**.  
-
-- **Tech:** Python, FastAPI, AWS Lambda, API Gateway, Cognito, DocumentDB  
- 
----
- 
-### 📊 [Business Value Dashboard (BVD)](#)  
-
-- Automated daily ETL pipeline for **customer billing data**.  
-
-- Used **AWS EventBridge** for proactive monitoring & job failure alerts.  
-
-- **Tech:** AWS Glue, Python, PySpark, RDS, Boto3  
- 
 ---
  
 ## 🌐 Connect with Me  
  
-- [💼 LinkedIn](https://www.linkedin.com/in/vishal-singh-49856a23b/)  
+- [💼 LinkedIn](https://www.linkedin.com/in/arvind-sharma-708793217/)  
 
-- [✍️ Medium](https://medium.com/@vishal_007)  
-
-- [🐙 GitHub](https://github.com/vishalsingh0265)  
+- [🐙 GitHub](https://github.com/Sharma-Turbo)  
  
 ---
  
